@@ -1,0 +1,19 @@
+table {
+    width: 500px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top:40px;
+    margin-left: 100PX;
+
+  }
+
+
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 10px;
+
+  }
